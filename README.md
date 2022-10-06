@@ -10,7 +10,8 @@ Projeto Mobile para gerenciar o tempo de Trabalho e pausa
         separados por breves intervalos.
 
 
-        Para baixar, clone o repositório com as configurações padrões do Flutter e conecte seu celular em modo de debug
+        Para baixar, clone o repositório com as configurações padrões do Flutter e 
+        conecte seu celular em modo de debug
 
         ![pomodoro](https://user-images.githubusercontent.com/43734393/194390660-57a2942c-5bf1-4397-a4d8-7033437fb808.jpeg)
 
