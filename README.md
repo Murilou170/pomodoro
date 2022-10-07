@@ -12,6 +12,10 @@ Projeto Mobile para gerenciar o tempo de Trabalho e pausa
 
         Para baixar, clone o repositório com as configurações padrões do Flutter e 
         conecte seu celular em modo de debug
+        ou instale pelo link do drive
+        https://drive.google.com/file/d/1FvVombTyBM5OF-RiNCKBvngM22h24XTd/view?usp=sharing
+
+        Logo estará disponível na playstore
 
        
 
